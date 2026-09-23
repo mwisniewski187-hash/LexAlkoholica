@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix LexAlkoholica - Bydgoszcz",
+  "description": "Trenażer pisania apelacji karnej na kolokwium: obszerne kazusy, równoczesny edytor zarzutów i wniosków, weryfikacja poprawności oraz wzorcowe rozwiązania.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
